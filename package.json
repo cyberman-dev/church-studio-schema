@@ -1,1 +1,12 @@
+{
+  "name": "church-studio",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "sanity dev",
+    "deploy": "sanity deploy"
+  },
+  "dependencies": {
+    "sanity": "^3.0.0"
+  }
+}
 
